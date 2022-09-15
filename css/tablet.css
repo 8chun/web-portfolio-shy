@@ -1,0 +1,58 @@
+
+@media all and (min-width:768px) {
+    .aesop_web, .pocari_web{
+        width: 704px;
+        height: 350px;
+        background-image: url(../images/aesop_img.png);
+        position: relative;
+    }
+    .aesop_web a{
+        width: 100%;
+        height: 100%;
+        display: block;
+    }
+    .aesop_web video{
+        width: 459px;
+        position: absolute;
+        top: 46px;
+        left: 167px;
+    }
+    .aesop_web img{
+        width: 250px;
+        top: 120px;
+        position: absolute;
+        left: 273px;
+        z-index: 3;
+    }
+    .aesop_web h4{
+        display: block;
+        font-size: 6px;
+        text-align: center;
+        color: white;
+        position: absolute;
+        top: 210px;
+        left: 265px;
+    }
+    .pocari_web{
+        width: 704px;
+        height: 396px;
+        position: relative;
+    }
+    .pocari_web img{
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 999;
+    }
+    .pocari_web video{
+        width: 704px;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .picview figure{
+        max-width: 750px;
+    }
+}
