@@ -245,9 +245,12 @@ header h2{
     margin-left: 35px;
 }
 .salonnail_mobile a{
-    width: 371px;
+    width: 300px;
     height: 100%;
     display: block;
+}
+.salonnail_mobile a img{
+    width: 300px;
 }
 .mobileview{
     width: 274px;
@@ -264,7 +267,6 @@ header h2{
 .video p{
     text-indent: -5px;
 }
-
 
 .design{
     background-image: url(../images/design_portfolio.png);
@@ -294,9 +296,11 @@ header h2{
     text-align: center;
 }
 .vid img{
-    width: 704px;
+    width: 410px;
 }
 .vid iframe{
+    width: 90%;
+    height: 50%;
     position: absolute;
     top: 50%;
     left: 50%;

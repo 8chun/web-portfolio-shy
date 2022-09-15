@@ -52,7 +52,23 @@
         left: 0;
     }
 
-    .picview figure{
+    .picview .pic{
         max-width: 750px;
+    }
+    .vid iframe{
+        max-width: 1280px;
+        height: 720px;
+    }
+    .vid img{
+        width: 704px;
+    }
+
+    .salonnail_mobile a{
+        width: 371px;
+        height: 100%;
+        display: block;
+    }
+    .salonnail_mobile a img{
+        width: 371px;
     }
 }
