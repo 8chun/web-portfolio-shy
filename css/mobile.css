@@ -282,6 +282,13 @@ header h2{
     background-image: url(../images/product_img.png);
     font-size: 18px;
 }
+.gimhaejerky{
+    width: 278px;
+    height: 121px;
+    background-image: url(../images/gj.png);
+    padding-left: 38px;
+
+}
 
 
 .item img{
