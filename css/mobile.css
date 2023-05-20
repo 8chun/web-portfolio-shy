@@ -144,8 +144,8 @@ header h2{
     width: 370px;
 }
 .info{
-    width: 282px;
-    height: 162px;
+    width: 319px;
+    height: 160px;
     background-image: url(../images/profile_info.png)
 }
 .edu{
@@ -271,7 +271,7 @@ header h2{
     text-indent: -5px;
 }
 .webview{
-    width: 303px;
+    width: 321px;
     height: 51px;
     background-image: url(../images/webview.png);
     font-size: 16px;
