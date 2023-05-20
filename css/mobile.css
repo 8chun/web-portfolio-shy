@@ -144,14 +144,14 @@ header h2{
     width: 370px;
 }
 .info{
-    width: 455px;
-    height: 110px;
+    width: 303px;
+    height: 106px;
     background-image: url(../images/profile_info.png)
 }
 .edu{
-    width: 355px;
-    height: 142px;
-    background-image: url(../images/profile_skill.png);
+    width: 455px;
+    height: 110px;
+    background-image: url(../images/profile_edu.png);
 }
 .skill{
     width: 392px;
